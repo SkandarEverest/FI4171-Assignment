@@ -1,2 +1,1 @@
-# FI4171-Assignment
-Tugas Mata Kuliah Komputasi dan Sistem Instrumentasi Cerdas
+I am editing the README file. Adding some more details about the project description.
